@@ -2,6 +2,7 @@
 A command-line Sudoku Solver implemented in C using the backtracking algorithm. This project demonstrates the application of recursion and constraint satisfaction techniques to solve standard 9x9 Sudoku puzzles efficiently.
 
 *Features*
+
 Solves any valid 9x9 Sudoku puzzle using backtracking.
 
 Input puzzles via standard input, file, or hardcoded array.
